@@ -46,12 +46,24 @@ Ela pode envolver desde melhorias na estrutura do código e na modelagem do sist
 
 ---
 
+## Iniciando projeto do zero
+Iniciar um projeto do zero pode ser desafiador e dificil, para isso podemos seguir algumas dicas
+
+1. Pensar primeiro no problema que quer abordar e o porquê dele ser um problema;
+2. Pensando em um empresa de informática, como podemos resolver o problema usando computação, ferramentas, softwares ou processos de tecnologia
+3. Pensado a forma de resolver agora é hora de escolher as tecnologias para cada etapa da solução
+   3.1 Dica: nesse momento foque no que a equipe tem mais afinidade para gerar valor, por exemplo, se a equipe tem mais afinidade em desenvolvimento WEB, seria uma abordagem mais interessante realizar a etapa WEB, se a equipe tiver afinidade com backend, é mais interessante abordar o problema desenvolvendo o backend da solução
+4. Organizar as etapas de entrega em um cronograma factível ou seja, que reflita a realidade da equipe.
+5. Definir e cobrar de cada membro da equipe a entrega
+
+---
+
 ## **Dicas Práticas para os Alunos**  
-Escolha um **aspecto chave** do projeto para aprimorar, ao invés de tentar mudar tudo de uma vez.  
-Utilize **ferramentas de versionamento** como GitHub para manter o controle das alterações.  
-Faça uma **pesquisa sobre tecnologias emergentes** que podem agregar valor ao projeto.  
-Mantenha uma **documentação clara e organizada** para facilitar futuras manutenções.  
-Realize **testes com usuários reais** para validar as melhorias implementadas.  
+ Escolha um **aspecto chave** do projeto para aprimorar, ao invés de tentar mudar tudo de uma vez.  
+ Utilize **ferramentas de versionamento** como GitHub para manter o controle das alterações.  
+ Faça uma **pesquisa sobre tecnologias emergentes** que podem agregar valor ao projeto.  
+ Mantenha uma **documentação clara e organizada** para facilitar futuras manutenções.  
+ Realize **testes com usuários reais** para validar as melhorias implementadas.  
 
 ---
 
