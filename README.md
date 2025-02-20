@@ -56,4 +56,4 @@ Realize **testes com usuários reais** para validar as melhorias implementadas.
 ---
 
 ### **Conclusão**  
-A computação aplicada é uma poderosa ferramenta para **evoluir projetos acadêmicos**, tornando-os mais eficientes, seguros e escaláveis. Utilizar técnicas modernas e novas tecnologias pode transformar um trabalho simples em uma solução inovadora e próxima de padrões do mercado. 🚀  
+A computação aplicada é uma poderosa ferramenta para **evoluir projetos acadêmicos**, tornando-os mais eficientes, seguros e escaláveis. Utilizar técnicas modernas e novas tecnologias pode transformar um trabalho simples em uma solução inovadora e próxima de padrões do mercado.
